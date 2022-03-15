@@ -1,2 +1,2 @@
 # SimpleCaluclatorIOS
-Xcode project files - Assessment 2 app 1
+Xcode project files - SEM1 Assessment 2 app 1
